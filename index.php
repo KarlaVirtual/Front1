@@ -1,2 +1,3 @@
 <?php
-echo "Hola mundo APESTOSO";
+echo "Hola mundo lindito hrmoso";
+echo "mientira, mudno apestoso jajaja";
