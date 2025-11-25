@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.9.0](https://github.com/KarlaVirtual/Front1/compare/v1.8.0...v1.9.0) (2025-11-25)
+
+
+### Features
+
+* (VSFT-0000)-PruebaDeployFront1 (8f134033adb597f2debffd917880562b4dc0624a)
+
 # [1.8.0](https://github.com/KarlaVirtual/Front1/compare/v1.7.0...v1.8.0) (2025-11-25)
 
 
